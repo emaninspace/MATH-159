@@ -1,0 +1,16 @@
+You recently collected data in a survey. Students filled out their
+student ID, whether they were registered to vote, GPA, and favorite
+type of pet. Unfortunately not everyone filled out the survey the same
+e.g. some responded no and others NO. You can find the data in
+"Recode.csv". Complete the tasks below in groups and turn in one
+electronic copy per group. Groups are 5 or smaller. Make sure you note
+how you accomplished the task with statcrunch "Stat -> tables -> ..."
+and what information you entered and buttons pressed.
+
+1. Write down the steps you used to eecode the data so that all
+   responses are the same. For "Registered_to_vote" change it so that
+   all of the no's and yes's are the same i.e. "No" and "NO" changed
+   to "no". For "Pet" change it so that there is only dog, cat, and
+   bird. 
+2. Write down the steps to make a distribution of the recoded
+   responses.
