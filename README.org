@@ -1,3 +1,11 @@
 * Goals
 The goal is to create a shared space for instructors at Ohlone (and
-possibly elsewhere) to share statistics resources.
+possibly elsewhere) to share statistics resources (assignments,
+slides, datasets, etc.).
+
+* Naming System
+All files should have a common format. Filnames should start from
+least specific (MATH-159) to most specific (Test-1). Use underscores
+to separate information. For example the file,
+MATH-159_Chapter-1_Section-3.org, meets the guidelines.
+
