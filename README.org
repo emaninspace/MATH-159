@@ -1,0 +1,3 @@
+* Goals
+The goal is to create a shared space for instructors at Ohlone (and
+possibly elsewhere) to share statistics resources.
