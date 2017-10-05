@@ -1,0 +1,45 @@
+#+TITLE:     Chapter 4: Guessing Ages
+#+AUTHOR:    Emmanuel A. Garcia
+#+EMAIL:     egarcia@ohlone.edu
+#+DESCRIPTION: In class assignment
+#+INCLUDE:"~/macro.org"
+
+* Instructions
+The data for this assignment will be collected by the class. 
+Complete the tasks below in groups and turn in an electronic copy per
+group (download as Word file). I recommend using Google Docs to
+collaborate. Groups are 5 or smaller. Make sure you note how you
+accomplished the task with statcrunch "Stat -> tables -> ..." and what
+information you entered and buttons pressed as well as 
+the result.
+
+* Data Gathering
+Fill out the google form https://goo.gl/forms/uR34TLHK6na0THcF3.
+
+* Assignment
+** Question 1:
+If everyone guessed every single age correctly what would the
+regression line be?
+
+** Question 2:
+What was the correlation between the variables guessed age and actual age?
+
+** Question 3:
+How would you describe the association between the ages you guessed
+and the actual ages? 
+
+** Question 4:
+Is a regression line appropriate for your data? Explain why or why not.
+
+** Question 5:
+What does it mean if a point falls above your regression line? Below
+your line?
+
+** Question 6:
+What is the intercept of your line? What is the slope? Interpret the
+slope and intercept. Explain what these tell you about your ability to
+guess the ages of these people.
+
+** Question 7:
+Make histograms for the guessed age and actual age. Compare the two
+distributions.

@@ -1,0 +1,52 @@
+#+TITLE:     Chapter 3: Analyze
+#+AUTHOR:    Emmanuel A. Garcia
+#+EMAIL:     egarcia@ohlone.edu
+#+DESCRIPTION: In class assignment
+#+INCLUDE:"~/macro.org"
+
+* Instructions
+The data for this assignment is Skyscraper height on
+Statcurnch. Complete the tasks below in groups and turn in an
+electronic copy per group (download as Word file). I recommend using
+Google Docs to collaborate. Groups are 5 or smaller. Make sure you
+note how you accomplished the task with statcrunch "Stat -> tables ->
+..." and what information you entered and buttons pressed as well as
+the result.
+
+* Assignment
+** Question 1:
+ Compare the distributions of the variable height by year
+completed.
+
+1. Bin the "Completed" variable by Data -> Bin
+2. Create histograms and boxplots for the variable "Height" grouped by
+   "Bin(Completed)".
+3. Record the appropriate typical value for "Height" grouped by
+   "Bin(Completed)".
+4. How is the distribution changing over time?
+
+** Question 2:
+Compare the distributions of the variable height by material. Take
+similar steps to the question above. 
+
+** Question 3:
+How many different cities are represented in the dataset? Which city
+has the greatest amount of skyscrapers? How many cities have only one
+skyscraper? What is the Median and Mean number of skyscrapers per city?
+
+** Question 4:
+Answer the question for the two cities: San Francisco and
+Seattle. What is the most used and least material, most used use and
+least used use?
+
+** Question 5:
+Recode the variable "Use" so that education is one grup, hospital is
+one group, office is one group, hotel is one group, and residential is
+one group. What is the most used material in recoded residential and
+recoded office? What is the average height of recoded residential and
+recoded office?
+
+Make a boxplot for the variable Height only for recoded residential
+and recoded office. Are the distributions different? What might
+account for their differences/similiarities?
+
